@@ -1,0 +1,6 @@
+@RegisterMinimalApis_HostAddress = http://localhost:5055
+
+GET {{RegisterMinimalApis_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
